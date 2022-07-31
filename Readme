@@ -1,1 +1,9 @@
 The Dataset will be updated soon.
+
+The Dataset contains data of users where each file contains columns:-
+1> Index
+2> Date and time at which video was watched
+3> Youtube Link
+4> Category
+
+The date and time can be converted to timestamp using python libraries.
